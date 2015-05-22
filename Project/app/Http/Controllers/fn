@@ -1,0 +1,25 @@
+ <?php
+   /* function heure ($str)
+    {
+        if($str[1]=='1')
+
+        {$h2=$str[7].$str[8].':'.$str[10].$str[11];
+            $h1=$str[1].$str[2].':'.$str[4].$str[5];
+        }
+
+    else
+        {
+            $h1=$str[1].':'.$str[3].$str[4].'-';
+
+            if($str[6]=='1')
+                {$h2=$str[6].$str[7].':'.$str[9].$str[10];}
+            else
+                {$h2=$str[6].':'.$str[8].$str[9];}
+
+        }
+
+        return $h1 ;
+
+    }
+var_dump(heure("_8_30_9_00"));*/
+    ?>
